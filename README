@@ -8,6 +8,11 @@ The package has no dependencies. Currently you need gnome-games to
 take advantage of this artwork, but hopefully in the future this
 artwork can be used by other packages.
 
+Some older themes are shipped with this package. These are only useful
+if you have an older version of gnome-games or are installing multiple
+versions of gnome-games. By default they are not installed; use the
+--enable-old argument to configure to install them.
+
 Copying of this package is covered under under the GPL, see the file
 COPYING for details. An exception to this is cards/dondorf.svg which is in
 the public domain.

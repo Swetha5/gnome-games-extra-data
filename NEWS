@@ -1,3 +1,10 @@
+gnome-games-extra-data 2.10.0
+----------------------------
+
+This release includes ports of the Same GNOME themes from the old
+format to the 2.10 format. The old themes have been retained and can
+be installed using the --enable-old argument to configure.
+
 gnome-games-extra-data 2.8.0
 ----------------------------
 

@@ -1,3 +1,13 @@
+2005-03-07  Callum McKenzie  <callum@physics.otago.ac.nz>
+
+	* NEWS:
+	* configure.in: 2.10
+
+	* configure.in: Add option to enable installation of obsolete themes.
+
+	* same-gnome/2.10/marbles.png:
+	* same-gnome/2.10/glass.png: Update to the 2.10 format.
+
 2005-02-09  Callum McKenzie  <callum@physics.otago.ac.nz>
 
 	* same-gnome/2.10/rotate.* Replaced rotate.png with an svg version.
