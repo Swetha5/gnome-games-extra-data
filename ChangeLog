@@ -1,0 +1,10 @@
+2004-08-16  callum  <callum@spooky-possum.org>
+
+	* NEWS: 2.7.0.
+
+2004-08-16  Callum McKenzie <callum@physics.otago.ac.nz>
+
+	* mahjongg/Makefile.am: Added the default2.png and seta.png
+	grahics from Richard Hoelscher. These are rebuilds of the GNOME
+	1.4 themes.
+

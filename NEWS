@@ -1,5 +1,8 @@
 gnome-games-extra-data 2.7.0
 ----------------------------
 
-Initial release. The current contents were all previously part of
-the gnome-games package.
+This is the initial release. Most of the graphics you will find here
+were previously in the gnome-games package. There are two additional
+tilesets for Mahjongg from Richard Hoelscher based on the old GNOME
+1.4 graphics.
+
