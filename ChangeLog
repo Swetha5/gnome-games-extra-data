@@ -1,3 +1,16 @@
+2005-02-09  Callum McKenzie  <callum@physics.otago.ac.nz>
+
+	* same-gnome/2.10/rotate.* Replaced rotate.png with an svg version.
+
+2005-01-27  Callum McKenzie  <callum@physics.otago.ac.nz>
+
+	* configure.in: 
+	* same-gnome/Makefile.am:
+	* same-gnome/2.10/*: Added a 2.10 theme directory. Copies of the 
+	themes have been made, but not all are converted. Blink-sync has
+	been converted and renamed blink since they are all synchronised 
+	now.
+
 2004-09-13  callum  <callum@spooky-possum.org>
 
 	* gnometris/backgrounds/*: Added the old gnometris backgrounds.
