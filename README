@@ -1,0 +1,13 @@
+gnome-games-extras-data
+
+This package contains extra data files for the gnome-games package. At
+the moment this is almost entirely extra themes and artwork for the
+games.
+
+The package has no dependencies. Currently you need gnome-games to
+take advantage of this artwork, but hopefully in the future this
+artwork can be used by other packages.
+
+Copying of this package is covered under under the GPL, see the file
+COPYING for details. An exception to this is cards/dondorf.svg which is in
+the public domain.

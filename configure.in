@@ -1,0 +1,23 @@
+# -*- Autoconf -*-
+# Process this file with autoconf t produce a configure script
+
+AC_PREREQ([2.53])
+AC_INIT([gnome-games-data-extra],[2.7.0],
+	[http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-games])
+AM_INIT_AUTOMAKE
+AC_CONFIG_SRCDIR([mahjongg/maya.png])
+
+AM_MAINTAINER_MODE
+
+AC_CONFIG_FILES([
+Makefile
+cards/Makefile
+glines/Makefile
+gnobots2/Makefile
+gnometris/Makefile
+iagno/Makefile
+mahjongg/Makefile
+same-gnome/Makefile
+])
+AC_OUTPUT
+
