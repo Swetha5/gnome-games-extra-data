@@ -1,8 +1,10 @@
 gnome-games-extra-data 2.8.0
 ----------------------------
 
-This release is to bring the version up to match the stable
-gnome-games release. Nothing has changed since 2.7.0.
+The only change since 2.7.0 is the addition of the old gnometris
+backgrounds. They are not installed since there is no suitable
+location for them. They are provided for use on an ad hoc basis by any
+interested parties (i.e. copy them to somewhere in your home directory).
 
 gnome-games-extra-data 2.7.0
 ----------------------------
