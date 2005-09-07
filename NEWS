@@ -1,5 +1,14 @@
+gnome-games-extra-data 2.12.0
+-----------------------------
+
+This release is timed to match gnome-games 2.12.0. It can also be used
+with gnome-games 2.10.0 since none of the data formats have changed.
+
+Only one change, but its a biggie: David Bellot's SVG card theme has
+been upgraded to the 2.0 version. It is well worth the download.
+
 gnome-games-extra-data 2.10.0
-----------------------------
+-----------------------------
 
 This release includes ports of the Same GNOME themes from the old
 format to the 2.10 format. The old themes have been retained and can
