@@ -1,3 +1,11 @@
+2006-01-06  Callum McKenzie  <callum@spooky-possum.org>
+
+	* cards/Makefile.am (card_DATA): Added the ornamental Nicu
+	Buculei. It's a nice, modern, set of cards.  
+
+	* gnobots2/Makefile.am (pixmap_DATA): Removed the windows theme to
+	appease trademark worriers. It was petty anyway.
+
 2005-09-07  Callum McKenzie  <callum@spooky-possum.org>
 
 	* configure.in: 
