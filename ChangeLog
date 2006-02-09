@@ -1,3 +1,9 @@
+2006-02-09  Callum McKenzie  <callum@spooky-possum.org>
+
+	* same-gnome/2.10/matrix.png
+	* same-gnome/2.10/Makefile.am: Added the matrix theme Adam and
+	Filip Dominec <fd1024@email.cz>.
+
 2006-01-06  Callum McKenzie  <callum@spooky-possum.org>
 
 	* cards/Makefile.am (card_DATA): Added the ornamental Nicu
