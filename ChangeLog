@@ -1,3 +1,8 @@
+2006-11-25  Callum McKenzie  <callum@spooky-possum.org>
+
+	* mahjongg/Makefile.am: 
+	* mahjongg/greek-letter.png: Add a new mahjongg theme from Jon Arney.
+
 2006-11-04  Andreas Røsdal  <andrearo@pvv.ntnu.no>
 
 	* cards/Makefile.am:
