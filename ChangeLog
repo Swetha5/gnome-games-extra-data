@@ -1,5 +1,7 @@
 2006-11-25  Callum McKenzie  <callum@spooky-possum.org>
 
+	* MAINTAINERS: Update my email address.
+
 	* mahjongg/Makefile.am: 
 	* mahjongg/greek-letter.png: Add a new mahjongg theme from Jon Arney.
 
