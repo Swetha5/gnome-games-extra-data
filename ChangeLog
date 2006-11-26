@@ -1,3 +1,13 @@
+2006-11-26  Andreas Røsdal  <andrearo@pvv.ntnu.no>
+
+	* iagno/blend.png:
+	* iagno/flipblend.png:
+	* iagno/metal2.png:
+	* iagno/metal.png:
+	* iagno/shrink.png:
+	* iagno/sunmoon.png: Scale iagno tiles to new format used in
+	the 2.17.x branch of gnome-games.
+
 2006-11-25  Callum McKenzie  <callum@spooky-possum.org>
 
 	* MAINTAINERS: Update my email address.
