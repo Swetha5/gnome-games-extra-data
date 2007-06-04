@@ -1,3 +1,17 @@
+2007-06-06  Christian Persch  <chpe@gnome.org>
+
+	* cards/paris.svg:
+	* cards/dondorf.svg: Re-arranged so each card is addressable by ID.
+
+	A cards/template-paris.svg:
+	A cards/template-single.svg:
+	A cards/template-double.svg: Templates for card themes with each card
+	addressable by ID. Based on paris and bonded, resp.
+
+	* cards/Makefile.am: Updated for new card theme path.
+
+	* configure.in: Updated for 2.19.0.
+
 2007-05-01  Andreas Røsdal  <andreasr@gnome.org>
 
 	* NEWS:
