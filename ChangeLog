@@ -1,3 +1,9 @@
+2007-06-06  Christian Persch  <chpe@gnome.org>
+
+	* cards/bellot.svg: Fix xlink namespace to point to w3.org, not
+	"w3org".
+	* cards/bonded.svg: Remove trailing zeros.
+
 2007-06-04  Andreas Røsdal  <andreasr@gnome.org>
 
 	* NEWS:
