@@ -1,3 +1,9 @@
+2007-08-09  Andreas Røsdal  <andreasr@gnome.org>
+
+	* cards/anglo.svg:
+	* cards/Makefile.am: New Anglo-American playing cards,
+	by Aike Reyer in bug #461267.
+
 2007-07-31  Andreas Røsdal  <andreasr@gnome.org>
 
 	* NEWS:
