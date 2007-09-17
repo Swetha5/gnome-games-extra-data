@@ -1,3 +1,8 @@
+2007-09-17  Thomas H.P. Andersen  <phomes@gmail.org>
+
+	* NEWS:
+	* configure.in: gnome-games-extra-data 2.20.0
+
 2007-08-09  Andreas Røsdal  <andreasr@gnome.org>
 
 	* cards/anglo.svg:
