@@ -1,5 +1,9 @@
 2008-01-22  Christian Persch  <chpe@gnome.org>
 
+	* configure.in: Version bump.
+
+2008-01-22  Christian Persch  <chpe@gnome.org>
+
 	* cards/Makefile.am:
 	A cards/anglo_bitmap.svg:
 	A cards/gnomangelo_bitmap.svg: Add bitmap variants of Anglo and
