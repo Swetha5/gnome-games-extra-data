@@ -1,3 +1,10 @@
+2008-01-22  Christian Persch  <chpe@gnome.org>
+
+	* cards/Makefile.am:
+	A cards/anglo_bitmap.svg:
+	A cards/gnomangelo_bitmap.svg: Add bitmap variants of Anglo and
+	Gnomangelo.
+
 2008-01-12  Andreas Røsdal  <andreasr@gnome.org>
 
 	* cards/gnomangelo.svg: Add Gnomangelo cards, which is based on
