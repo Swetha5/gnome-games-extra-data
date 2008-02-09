@@ -1,5 +1,11 @@
 2008-02-09  Christian Persch  <chpe@gnome.org>
 
+	=== Release 2.21.91 ===
+
+	* configure.in:
+
+2008-02-09  Christian Persch  <chpe@gnome.org>
+
 	* cards/Makefile.am:
 	D cards/gnomangelo_bitmap.svg: Gnomangelo Bitmap is now shipped in
 	gnome-games since it's the new default theme. Part of bug #513557.
