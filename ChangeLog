@@ -1,6 +1,12 @@
 2008-02-09  Christian Persch  <chpe@gnome.org>
 
 	* cards/Makefile.am:
+	D cards/gnomangelo_bitmap.svg: Gnomangelo Bitmap is now shipped in
+	gnome-games since it's the new default theme. Part of bug #513557.
+
+2008-02-09  Christian Persch  <chpe@gnome.org>
+
+	* cards/Makefile.am:
 	A cards/bonded.svg: Ship bonded card theme in g-g-e-d. Part of bug
 	#513557.
 
