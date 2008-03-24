@@ -1,5 +1,9 @@
 2008-03-24  Christian Persch  <chpe@gnome.org>
 
+	* cards/Makefile.am: Add bonded.svg back to the tarball.
+
+2008-03-24  Christian Persch  <chpe@gnome.org>
+
 	=== Release 2.22.0 ===
 
 	* NEWS:
