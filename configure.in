@@ -22,7 +22,6 @@ cards/Makefile
 glines/Makefile
 gnobots2/Makefile
 gnometris/Makefile
-gnometris/backgrounds/Makefile
 iagno/Makefile
 mahjongg/Makefile
 same-gnome/Makefile
