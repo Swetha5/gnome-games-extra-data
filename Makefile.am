@@ -9,7 +9,7 @@ EXTRA_DIST = \
 	ChangeLog.pre-2-24 \
 	$(NULL)
 
-DISTCHECK_CONFIGURE_FLAGS = --enable-old
+DISTCHECK_CONFIGURE_FLAGS =
 
 # Build ChangeLog from GIT or SVN history
 # (SVN r69 was the first ChangeLog-less checkin).
