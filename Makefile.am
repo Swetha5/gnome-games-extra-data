@@ -11,12 +11,6 @@ EXTRA_DIST = \
 
 DISTCHECK_CONFIGURE_FLAGS = --enable-old
 
-if !ENABLE_OLD
-dist-hook:
-	@echo You need to build with --enable-old in order to make dist
-	@false
-endif
-
 # Build ChangeLog from GIT or SVN history
 # (SVN r69 was the first ChangeLog-less checkin).
 # Only build this when in a git or svn checkout.

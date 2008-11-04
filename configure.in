@@ -16,17 +16,6 @@ if test -z "$enable_maintainer_mode"; then
 fi
 AM_MAINTAINER_MODE([enable])
 
-AC_ARG_ENABLE([old],
-[AS_HELP_STRING([--enable-old],[Install themes with obsolete formats])],
-[case "${enableval}" in
-  yes) enable_old=yes ;;
-  no)  enable_old=no ;;
-  *) AC_MSG_ERROR(bad value ${enableval} for --enable-old) ;;
- esac],[enable_old=no])
-
-AC_SUBST([enable_old])
-AM_CONDITIONAL([ENABLE_OLD], [test "$enable_old" = "yes"])
-
 AC_CONFIG_FILES([
 Makefile
 cards/Makefile
