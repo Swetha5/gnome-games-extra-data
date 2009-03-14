@@ -1,24 +1,30 @@
-gnome-games-extra-data 2.24.0
+GNOME Games Extra Data 2.26.0
+-----------------------------
+* Add new card theme "Tango" created by Frederik Elwert
+* Install to changed theme directories for Gnome Games 2.26
+* Drop old-style (pre-2.12) theme data for Gnometris and Same Gnome
+
+GNOME Games Extra Data 2.24.0
 -----------------------------
 * Add bonded.svg card theme now that it's no longer shipped in gnome-games.
 
-gnome-games-extra-data 2.20.0
+GNOME Games Extra Data 2.20.0
 -----------------------------
 (No news.)
 
-gnome-games-extra-data 2.20.0
+GNOME Games Extra Data 2.20.0
 ------------------------------
 
 This is the stable realease of gnome-games-extra-data. This time we have a new
 set of Anglo-American cards for aisleriot from Aike Reyer.
 
-gnome-games-extra-data 2.19.2
+GNOME Games Extra Data 2.19.2
 ------------------------------
 
 This development release of gnome-games-extra-data is
 in sync with gnome-games 2.19.6.
 
-gnome-games-extra-data 2.19.1
+GNOME Games Extra Data 2.19.1
 ------------------------------
 
 This is a development release which is synchronized with
@@ -27,14 +33,14 @@ which are compatible with the new version of Aisleriot.
 Packagers should note the new card theme path, which is documented
 in the changelog. 
 
-gnome-games-extra-data 2.18.0
+GNOME Games Extra Data 2.18.0
 ------------------------------
 
 So, here it is, the latest stable release of the extra themes for
 gnome-games. It is a stable release, with no changes since the
 previous development version.
 
-gnome-games-extra-data 2.17.90
+GNOME Games Extra Data 2.17.90
 ------------------------------
 
 This is a beta release of the extra themes available for Gnome Games. During
@@ -49,7 +55,7 @@ For now, here are the changes:
 	* Remove paris.svg from gnome-games.
 
 
-gnome-games-extra-data 2.14.0
+GNOME Games Extra Data 2.14.0
 -----------------------------
 
 I usually start these things off by saying that this release was timed
@@ -74,7 +80,7 @@ awesome eye candy.
 
 Enjoy!
 
-gnome-games-extra-data 2.12.0
+GNOME Games Extra Data 2.12.0
 -----------------------------
 
 This release is timed to match gnome-games 2.12.0. It can also be used
@@ -83,14 +89,14 @@ with gnome-games 2.10.0 since none of the data formats have changed.
 Only one change, but its a biggie: David Bellot's SVG card theme has
 been upgraded to the 2.0 version. It is well worth the download.
 
-gnome-games-extra-data 2.10.0
+GNOME Games Extra Data 2.10.0
 -----------------------------
 
 This release includes ports of the Same GNOME themes from the old
 format to the 2.10 format. The old themes have been retained and can
 be installed using the --enable-old argument to configure.
 
-gnome-games-extra-data 2.8.0
+GNOME Games Extra Data 2.8.0
 ----------------------------
 
 The only change since 2.7.0 is the addition of the old gnometris
@@ -98,7 +104,7 @@ backgrounds. They are not installed since there is no suitable
 location for them. They are provided for use on an ad hoc basis by any
 interested parties (i.e. copy them to somewhere in your home directory).
 
-gnome-games-extra-data 2.7.0
+GNOME Games Extra Data 2.7.0
 ----------------------------
 
 This is the initial release. Most of the graphics you will find here

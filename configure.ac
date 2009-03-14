@@ -3,7 +3,7 @@
 AC_PREREQ([2.53])
 
 AC_INIT([GNOME Games Extra Data],
-        [2.25.0-svn],
+        [2.26.0],
         [http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-games&component=general],
         [gnome-games-extra-data])
 
@@ -28,5 +28,3 @@ same-gnome/Makefile
 same-gnome/2.10/Makefile
 ])
 AC_OUTPUT
-
-echo "Install obsolete themes:	${enable_old}"
