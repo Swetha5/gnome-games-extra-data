@@ -7,6 +7,7 @@ EXTRA_DIST = \
 	MAINTAINERS	\
 	AUTHORS		\
 	ChangeLog.pre-2-24 \
+	gnome-games-extra-data.doap \
 	$(NULL)
 
 DISTCHECK_CONFIGURE_FLAGS =
