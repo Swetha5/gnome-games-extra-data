@@ -4,7 +4,6 @@ SUBDIRS = cards glines gnobots2 gnometris iagno mahjongg same-gnome
 
 EXTRA_DIST = \
 	autogen.sh	\
-	MAINTAINERS	\
 	AUTHORS		\
 	ChangeLog.pre-2-24 \
 	gnome-games-extra-data.doap \
