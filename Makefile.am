@@ -16,7 +16,7 @@ DISTCHECK_CONFIGURE_FLAGS =
 # Only build this when in a git or svn checkout.
 
 ChangeLog:
-	@if test -f $(top_srcdir)/.git/HEAD; then \
+	$(AM_V_GEN) if test -f $(top_srcdir)/.git/HEAD; then \
 		git log --stat > $@; \
 	fi
 
