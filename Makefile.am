@@ -9,7 +9,7 @@ EXTRA_DIST = \
 	gnome-games-extra-data.doap \
 	$(NULL)
 
-DISTCHECK_CONFIGURE_FLAGS =
+DISTCHECK_CONFIGURE_FLAGS = --disable-silent-rules
 
 # Build ChangeLog from GIT or SVN history
 # (SVN r69 was the first ChangeLog-less checkin).

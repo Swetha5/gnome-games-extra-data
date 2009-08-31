@@ -11,7 +11,7 @@ AC_CONFIG_SRCDIR([mahjongg/maya.png])
 
 AM_INIT_AUTOMAKE([1.9 no-dist-gzip dist-bzip2])
 
-m4_ifdef([AM_SILENT_RULES],[AM_SILENT_RULES([no])])
+m4_ifdef([AM_SILENT_RULES],[AM_SILENT_RULES([yes])])
 
 if test -z "$enable_maintainer_mode"; then
   enable_maintainer_mode=yes
