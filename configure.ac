@@ -26,7 +26,5 @@ gnobots2/Makefile
 gnometris/Makefile
 iagno/Makefile
 mahjongg/Makefile
-same-gnome/Makefile
-same-gnome/2.10/Makefile
 ])
 AC_OUTPUT

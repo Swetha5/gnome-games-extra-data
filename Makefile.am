@@ -1,6 +1,6 @@
 NULL =
 
-SUBDIRS = cards glines gnobots2 gnometris iagno mahjongg same-gnome
+SUBDIRS = cards glines gnobots2 gnometris iagno mahjongg
 
 EXTRA_DIST = \
 	autogen.sh	\
