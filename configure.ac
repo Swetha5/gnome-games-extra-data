@@ -23,7 +23,6 @@ Makefile
 cards/Makefile
 glines/Makefile
 gnobots2/Makefile
-gnometris/Makefile
 iagno/Makefile
 mahjongg/Makefile
 ])
