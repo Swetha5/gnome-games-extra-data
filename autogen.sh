@@ -7,7 +7,7 @@ test -z "$srcdir" && srcdir=.
 PKG_NAME="GNOME Games Extra Data"
 
 (test -f $srcdir/configure.ac \
-  && test -d $srcdir/same-gnome) || {
+  && test -d $srcdir/iagno) || {
     echo -n "**Error**: Directory \"\`$srcdir\'\" does not look like the"
     echo " top-level gnome directory"
     exit 1
