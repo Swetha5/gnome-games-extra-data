@@ -20,7 +20,6 @@ AM_MAINTAINER_MODE([enable])
 
 AC_CONFIG_FILES([
 Makefile
-cards/Makefile
 glines/Makefile
 gnobots2/Makefile
 iagno/Makefile
