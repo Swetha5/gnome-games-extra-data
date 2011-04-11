@@ -3,7 +3,7 @@
 AC_PREREQ([2.53])
 
 AC_INIT([GNOME Games Extra Data],
-        [3.0.0],
+        [3.1.0],
         [http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-games&component=general],
         [gnome-games-extra-data])
 
